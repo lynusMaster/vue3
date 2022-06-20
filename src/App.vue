@@ -12,7 +12,8 @@ import HelloWorld from './components/HelloWorld.vue'
   <HelloWorld msg="Hello Vue 3 + Vite" />
 </template>
 
-<style>
+<style lang="scss">
+// @import url('./reset.scss');
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;

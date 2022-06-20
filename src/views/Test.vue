@@ -56,8 +56,8 @@ export default {
 
     return { 
         counter,
-        inc,
         test,
+        inc,
         onSwiper,
         onSlideChange,
     };
@@ -76,6 +76,7 @@ export default {
         outline: 0;
         border: 0;
         background-color: yellowgreen;
+        color: white;
         cursor: pointer;
     }
 }
