@@ -5,6 +5,7 @@
         <router-link to="/">Home</router-link>
         <router-link to="/test">Test</router-link>
     </div>
+    <div>home page</div>
   </div>
 </template>
 <script>
